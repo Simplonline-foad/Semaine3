@@ -1,0 +1,25 @@
+body{
+    background-color:#4487E8;
+}
+
+header{
+    background-color:#4AC4FF;
+    padding:15px;
+}
+
+header h1{
+    color:#5744E8;
+}
+
+ul li{
+    list-style-type:none;
+}
+
+h3{
+    color:white;
+}
+
+footer{
+    background-color:#4AC4FF;
+    padding:15px;
+}
